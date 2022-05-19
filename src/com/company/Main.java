@@ -17,7 +17,7 @@ public class Main {
 
         //Adding new features in solar System
         FeatureStars FacX=new FeatureStars();
-        FacX.color=green;
+        FacX.color="green";
         FacX.size="78945123";
         FacX.radius="4515451515sdcvx";
     }
