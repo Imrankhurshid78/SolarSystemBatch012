@@ -6,5 +6,6 @@ public class SolarSystem {
     String Moon;
     String Star;
     String Planet;
+    String Universe;
 
 }
